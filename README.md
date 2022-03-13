@@ -6,25 +6,19 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Blockchain<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Algorithmic trading<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Python<br>
-<br>
 :rocket: Learning:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- OpenCv<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Computer Vision (Real-time processing)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Motion Detection<br>
-<br>
 :package: Need some help with:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Python Financial Analysis<br>
 </p>
 
-<strong>📊 My Github Stats :</strong><br><br>
+<strong>📊 My Github Stats :</strong><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kalido&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalido&theme=radical&hide_border=true"/>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalido&langs_count_private=true&theme=radical&card_width=445)<br><br>
-
-<strong>🚀 My Latest Update :</strong><br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kalido&repo=kalido&theme=radical)](https://github.com/kalido/kalido)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalido&langs_count_private=true&theme=radical&card_width=345)<br><br>
 
 ##### Contact Me :
 ###### If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game videogames together just ping me 😉.
