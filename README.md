@@ -4,7 +4,7 @@
 ##### I'm a QA Automation in Mexico. Currently, I'm working for Wizeline, Also enjoy coding for fun and making personal project.
 
 <p>
-:mushroom: Currently focus on:<br>
+:bulb: Currently focus on:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Blockchain<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Algorithmic trading<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Python<br>
@@ -12,9 +12,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- OpenCv<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Computer Vision (Real-time processing)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Motion Detection<br>
-:package: Need some help with:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Python Financial Analysis<br>
 </p>
+<br>
 
 | <strong>My Github Stats</strong> | Contributions |
 | ------------- | ------------- |
