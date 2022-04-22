@@ -7,7 +7,6 @@
 :bulb: Currently focus on:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Blockchain<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Algorithmic trading<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Python<br>
 :rocket: Learning:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- OpenCv<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Computer Vision (Real-time processing)<br>
